@@ -32,6 +32,14 @@ Redesign YouTube's mobile app to gently **discourage compulsive binge-watching**
 
 ---
 
+## 📽️ Demo Video
+
+https://github.com/user-attachments/assets/fff46dfd-bfa0-46e3-a194-4c5cbe3ed838
+
+> Click the image above to watch the working model in action.
+
+---
+
 ## 🧩 Features in the Design
 
 - 📉 Autoplay deceleration effect after a few videos
