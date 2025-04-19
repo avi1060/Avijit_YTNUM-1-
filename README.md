@@ -20,15 +20,15 @@ Redesign YouTube's mobile app to gently **discourage compulsive binge-watching**
 
 ## 🖼️ Screenshots
 
-![yt](https://github.com/user-attachments/assets/89c2dc50-1942-4114-b164-f8f40d6e4d1a)
-![home](https://github.com/user-attachments/assets/67080f59-0810-43ec-976f-cfb584f783fd)
-![video](https://github.com/user-attachments/assets/85820015-a082-4cda-b0d7-8d4777849993)
-![channel](https://github.com/user-attachments/assets/ac2cc7fa-a2b7-49f5-af5a-eebd32e9f5df)
-![shorts](https://github.com/user-attachments/assets/3fa7691a-b80f-4f3c-a72e-987963693de0)
-![create](https://github.com/user-attachments/assets/6b07110c-0185-4406-be83-9da0f251e124)
-![subscription](https://github.com/user-attachments/assets/8a90acc6-8e12-4398-8150-054242bb35dd)
-![user](https://github.com/user-attachments/assets/f5c8c592-295c-4b2e-954b-2e80668d1325)
-![Notification](https://github.com/user-attachments/assets/deec7f75-d352-42a7-a291-db9e96e4ac2d)
+![yt](https://github.com/user-attachments/assets/c7558b05-89cb-4ad3-a217-e6e9e0802604)
+![home](https://github.com/user-attachments/assets/c9ba2fa6-6f25-48dc-9c59-1aa94150a972)
+![video](https://github.com/user-attachments/assets/ba997565-5173-4bb5-a844-35b4ac97aa21)
+![channel](https://github.com/user-attachments/assets/44d73a93-b3a6-46b1-b891-fbd4d2e72f01)
+![shorts](https://github.com/user-attachments/assets/ad1fb84d-c8e1-49ba-a54c-bc17060ddd25)
+![create](https://github.com/user-attachments/assets/b472a894-c972-4471-851b-d650bf04ac8a)
+![subscription](https://github.com/user-attachments/assets/406c46df-4c7f-414e-b431-87967aa6fe91)
+![user](https://github.com/user-attachments/assets/f162c3c2-561b-42b3-896f-ebedcbd54554)
+![Notification](https://github.com/user-attachments/assets/62846ba9-3c31-4dc4-bcd4-d360a6b755f4)
 
 ---
 
