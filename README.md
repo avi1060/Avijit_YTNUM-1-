@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/fff46dfd-bfa0-46e3-a194-4c5cbe3ed838
 
 ## 📁 Figma Prototype
 
-[🔗 Click here to view the  Figma file]((https://www.figma.com/proto/wUx11XwHX633M4JXIWkOje/Design-Forge?page-id=0%3A1&node-id=9-8&p=f&viewport=479%2C-88%2C0.78&t=RZ2QxrO5bk7VafZi-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A10))
+[🔗 Click here to view the  Figma file]([https://www.figma.com/proto/wUx11XwHX633M4JXIWkOje/Design-Forge?page-id=0%3A1&node-id=7-256&p=f&viewport=479%2C-88%2C0.78&t=oKuOpxtELt8tkbB3-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A10)
 
 ---
 
